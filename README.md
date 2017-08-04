@@ -1,6 +1,6 @@
 # Lenovo Z50-75
 -----------
-A repository containing work i've doon on the Lenovo-Z50-75 (AMD CPU).
+A repository containing work i've done on the Lenovo-Z50-75 (AMD CPU).
 -----------
 - BIOS: Removed whitelist of accepted PCI WiFi-cards.
 
